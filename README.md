@@ -1,4 +1,4 @@
-## Hullooo 👋
+### Hullooo 👋
 
 ### Who am I? 🤗
 I am Srijan Chakraborty, an undergraduate student at IIIT Hyderabad and welcome to my rollercoaster of my profile! I've tried to express myself and my various interests through my projects! I have tried to make projects related to football ⚽ (my favourite sport), music 🎵 (my favourite passtime) and politics 🗨️ (because everyone should have an opinion).
@@ -8,6 +8,8 @@ I love learning new things 💙 and I try to get my hands dirty with everything 
  
 ### What am I trying to do? 🤔
 I have a few ideas (I like to call them my mega-projects) and am trying to explore as many things as I can before transforming my dreams and ideas into something more tangible. I hope to collaborate more on real-world projects and understand how to develop my visions into reality! 🤩
+
+#### I just try to remember: Surviving and Celebrating can apparently go together 🥳
 
 <!--
 **Srijan-Chak012/Srijan-Chak012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
