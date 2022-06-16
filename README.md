@@ -11,7 +11,7 @@ I have a few ideas (I like to call them my mega-projects) and am trying to explo
 
 #### I just try to remember: Surviving and Celebrating can apparently go together 🥳
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan-Chak012)](https://github.com/anuraghazra/github-readme-stats)
+[![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan-Chak012)]
 <!--
 **Srijan-Chak012/Srijan-Chak012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
