@@ -12,8 +12,8 @@ I have a few ideas (I like to call them my mega-projects) and am trying to explo
 #### I just try to remember: Surviving and Celebrating can apparently go together 🥳
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-Chak012&theme=radical)
-
-![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan-Chak012&count_private=true&theme=radical)
+<!-- 
+![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan-Chak012&count_private=true&theme=radical) -->
 
 <!--
 **Srijan-Chak012/Srijan-Chak012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
